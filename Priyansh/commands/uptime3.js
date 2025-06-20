@@ -8,7 +8,7 @@ module.exports = {
     name: "uptime3",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "𝐌𝐑 𝐏𝐑𝐈𝐍𝐂𝐄",
     description: "test",
     commandCategory: "box",
     usages: "test",
